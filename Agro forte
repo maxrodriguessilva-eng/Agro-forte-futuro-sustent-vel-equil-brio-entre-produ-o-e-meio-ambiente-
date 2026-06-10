@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agro Forte, Futuro Sustentável</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <div class="logo">AgroSustentável</div>
+        <nav>
+            <a href="#inicio">Início</a>
+            <a href="#pilares">Pilares</a>
+            <a href="#sobre">Sobre</a>
+        </nav>
+    </header>
+
+    <section id="inicio" class="hero">
+        <div class="hero-content">
+            <h1>Agro Forte, Futuro Sustentável</h1>
+            <p>O equilíbrio perfeito entre a alta produtividade e a preservação do meio ambiente.</p>
+            <a href="#pilares" class="btn">Saiba Mais</a>
+        </div>
+    </section>
+
+    <section id="pilares" class="conteudo">
+        <h2>O Equilíbrio entre Produção e Conservação</h2>
+        <div class="cards">
+            <div class="card">
+                <h3>Produtividade</h3>
+                <p>Uso de tecnologia de ponta, inteligência artificial e maquinário eficiente para alimentar o mundo de forma inteligente.</p>
+            </div>
+            <div class="card">
+                <h3>Sustentabilidade</h3>
+                <p>Práticas como rotação de culturas, plantio direto e manejo biológico que protegem o solo e a biodiversidade.</p>
+            </div>
+            <div class="card">
+                <h3>Recursos Hídricos</h3>
+                <p>Sistemas de irrigação gota a gota e captação de água da chuva para reduzir o desperdício desse recurso vital.</p>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2026 Agro Forte, Futuro Sustentável. Desenvolvido para um amanhã melhor.</p>
+    </footer>
+
+</body>
+</html>
